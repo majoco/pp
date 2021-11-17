@@ -1,1 +1,2 @@
-# prueba vue
+# cd rickandmortyapp
+# npm run serve
